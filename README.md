@@ -1,0 +1,1 @@
+9/18/21 This Project is to help cement what I know about HTML. Later on I'll be coming back to this and adding CSS, which I do know. I know the concepts of HTML/CSS, but actually making projects is where I actually learn.
